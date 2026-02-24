@@ -1,0 +1,8 @@
+{
+  "name": "amadeus-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "amadeus": "^1.5.0"
+  }
+}
