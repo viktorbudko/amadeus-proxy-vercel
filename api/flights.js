@@ -1,4 +1,4 @@
-import { amadeusFetch } from './_client.js';
+import { amadeusFetch } from './client.js';
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
