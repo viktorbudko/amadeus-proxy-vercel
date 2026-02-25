@@ -1,12 +1,8 @@
 {
   "name": "amadeus-proxy",
   "version": "1.0.0",
-  "main": "index.js",
+  "type": "module",
   "dependencies": {
-    "amadeus": "^11.0.0",
-    "@vercel/node": "^3.0.0"
-  },
-  "devDependencies": {
-    "typescript": "^5.0.0"
+    "amadeus": "^11.0.0"
   }
 }
