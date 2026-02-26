@@ -1,4 +1,4 @@
-import { Amadeus } from 'amadeus';
+import Amadeus from 'amadeus';
 
 export const amadeus = new Amadeus({
   clientId: process.env.AMADEUS_CLIENT_ID,
